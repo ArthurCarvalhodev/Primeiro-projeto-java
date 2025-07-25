@@ -1,7 +1,10 @@
 # Primeiro-projeto-java
 
 🎬 Screen Match - Primeiro Projeto em Java
-Bem-vindo ao Screen Match, o seu primeiro projeto em Java! Este projeto é uma aplicação simples em linha de comando que simula a exibição de informações sobre um filme, incluindo título, ano de lançamento, sinopse, avaliação e classificação.( Na pasta src, possui alguns exercicios e exemplos que fiz para treinar e melhorar minha lógica de programação.)
+Bem-vindo ao Screen Match, o seu primeiro projeto em Java! Este projeto é uma aplicação simples em linha de comando que simula a exibição de informações sobre um filme, incluindo título, ano de lançamento, sinopse, avaliação e classificação.
+
+
+*OBS:( Na pasta src, possui alguns exercicios e exemplos que fiz para treinar e melhorar minha lógica de programação.)*
 
 📌 Sobre o Projeto
 Este é um projeto introdutório em Java, ideal para quem está começando na programação. Ele apresenta conceitos básicos como:
